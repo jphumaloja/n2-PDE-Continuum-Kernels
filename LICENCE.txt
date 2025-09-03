@@ -1,0 +1,4 @@
+MATLAB codes to reproduce the simulation results from Section 6 of the paper "Backstepping Control of Continua of Linear Hyperbolic PDEs and Application to Stabilization of Large-Scale n+m Coupled Hyperbolic PDE Systems" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis.
+Copyright (C) 2025 by Jukka-Pekka Humaloja
+
+The project is lincesed under  CC BY-NC-ND. For a copy of the license, see https://creativecommons.org/licenses/by-nc-nd/4.0/
